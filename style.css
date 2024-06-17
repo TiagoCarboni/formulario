@@ -9,7 +9,7 @@ body, input, select, textarea {
 }
 
 body {
-    background-color: #E5E5E5;
+    background-color: #f40000;
 }
 
 body::before {
